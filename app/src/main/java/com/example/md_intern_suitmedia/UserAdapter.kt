@@ -3,6 +3,7 @@ package com.example.md_intern_suitmedia
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.bumptech.glide.Glide
 import com.example.md_intern_suitmedia.databinding.ItemUserBinding
 
 class UserAdapter(
